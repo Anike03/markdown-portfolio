@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
 ## About Me
-Hello! I'm [Your Name]. I'm a [Your Role/Title] with a passion for [your interests]. Welcome to my portfolio.
+Hello! I'm Aniket Sharma. I'm a cricketer with a passion for cricket. Welcome to my portfolio.
 
 [Projects](project.markdown) | [Contact](contact.markdown)
